@@ -1,2 +1,0 @@
-# images classification
-# learning pytorch
